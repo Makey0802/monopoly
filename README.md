@@ -1,4 +1,4 @@
-# Monopoly
+# monopoly
 Monopoly Files Edu Marcel
 
 Dies ist die Modellierung eine klassischen Monopolyspiels. 
