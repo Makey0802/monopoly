@@ -10,4 +10,4 @@ Das Repository enthält:
 - Klassenliste
 - Sequenzdiagramme
 
-Link zum Trello Board:
+Link zum Trello Board: https://trello.com/b/MoT5HSb9
